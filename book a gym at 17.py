@@ -43,6 +43,7 @@ while 1>0:
         print("Booking Successful!")
 
         driver.quit()
+        exit()
 
     else:
         print('Not the time for booking a slot at 17:00!')
