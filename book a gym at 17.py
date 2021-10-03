@@ -35,7 +35,7 @@ print("Booking Successful!")
 driver.quit()
 
 
-#-------------------If you want more function, see eferences below-----------------#
+#-------------------If you want more functions, see references below-----------------#
 #clcik on date selection menu
 '''
 date_selection = driver.find_element_by_name("p_code1")
