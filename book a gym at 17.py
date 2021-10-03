@@ -50,7 +50,7 @@ while 1>0:
         time.sleep(45)
 
 
-#-------------------If you want more function, see eferences below-----------------#
+#-------------------If you want more function, see references below-----------------#
 #clcik on date selection menu
 '''
 date_selection = driver.find_element_by_name("p_code1")
