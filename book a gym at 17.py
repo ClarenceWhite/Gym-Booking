@@ -1,3 +1,4 @@
+#This program is only for booking gym slot at 17:00, you can change the way it runs as you want.
 from selenium import webdriver
 from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.keys import Keys
