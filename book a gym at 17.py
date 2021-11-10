@@ -15,7 +15,7 @@ while 1>0:
 # see if the current time is in time range
     if n_time > d_time and n_time < d_time1:
 
-        #tell the computer where the chrome driver is
+        #tell the computer where the chrome driver is （you need to change the chrome driver path to your own path）
         PATH = "D:\Coding_Tools\Python\chromedriver.exe"
         driver = webdriver.Chrome(PATH)
 
